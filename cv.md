@@ -7,7 +7,7 @@
 
 ### About me:
 Hello, i'm 21, now i learn frontend development and realy like it!
-> The file has no target, only a path
+> The file has no target, only a path.
 
 ### Skills:
 ![my skills](https://skillicons.dev/icons?i=html,css,sass,pug,js,git,ts,nodejs,react,nestjs,express,materialui,figma,blender)
